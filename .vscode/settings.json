@@ -1,0 +1,14 @@
+{
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+    "terminal.integrated.env.windows": {
+        "GIT_SSH_COMMAND": "ssh -i ~/.ssh/id_rsa_personal"
+    }
+}
